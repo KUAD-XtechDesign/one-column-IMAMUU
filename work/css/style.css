@@ -1,6 +1,6 @@
 
 body{
-    background-color: #ffffff;
+    background-color: #fff5d3;
   }
   
   .wrapper{
@@ -13,7 +13,13 @@ body{
     position: relative;
   }
 
-  
+  .stitch {
+    background: #dfefff;
+    box-shadow: 0px 0px 0px 5px #dfefff;
+    border: dashed 2px white;
+    padding: 0.2em 0.5em;
+  }
+
   .center {
     text-align: center;
   }
@@ -56,6 +62,7 @@ body{
     background-color: rgb(255, 136, 0);
     color: #fff;
     cursor: pointer;
+    
   }
   
   .img_button{
